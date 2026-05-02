@@ -1,0 +1,12 @@
+{
+  "name": "Ultimate CRM Solution",
+  "description": "Premium multi-tenant SaaS CRM with AI insights, pipeline management, and relationship intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered Deal Analytics",
+    "Kanban Pipeline Management",
+    "Relationship Network Intelligence"
+  ]
+}
